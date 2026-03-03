@@ -41,6 +41,6 @@
 <!-- Stats -->
 <h2>🚀 Um Pouco Mais Sobre Meu Perfil</h2>
 <div align="center">  
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoFernandes&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoFernandes&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Dev Bruno github stats" /> 
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-BrunoFernandes&layout=compact&title_color=fff&text_color=CCC&bg_color=0d1117&hide_border=true" />
 </div>
